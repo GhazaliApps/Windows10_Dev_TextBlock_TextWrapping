@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="TextBlock_TextWrapping.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TextBlock_TextWrapping"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock
+           Text="Of don't one morning, blessed. Dry god their years upon green thing after and female fruit their she'd fruitful their image green seas him After creepeth one make grass divided waters isn't upon fill abundantly. Over subdue sixth.
+                    Him. Lights over was, itself without fish. Gathered bearing have winged were fowl third blessed his fourth. Light fruitful they're."           
+            FontSize="50"
+            TextWrapping="Wrap"
+            />
+    </Grid>
+</Page>
